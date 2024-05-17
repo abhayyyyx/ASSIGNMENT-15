@@ -1,8 +1,4 @@
-# ASSIGNMENT-15
-Random Forest
- 
-Assignment
-
+# Random Forest
 
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
